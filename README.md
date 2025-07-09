@@ -5,8 +5,8 @@
   src="photo1.jpg"
   alt="Dhruhi Sheth"
   width="170"
-  align="left"
-  style="margin-left:200px;"
+  align="right"
+  style="margin-right:200px;"
 />
 
 Welcome to my GitHub profile! I’m passionate about **full-stack development**, **cloud services**, and **machine learning**.  From building robust applications to contributing to student communities, I enjoy turning ideas into real, user-focused products. Feel free to explore my repositories and connect with me!
@@ -27,6 +27,7 @@ Welcome to my GitHub profile! I’m passionate about **full-stack development**,
   </a>
 </p>
  
+---
 
 ### 🔗 About Me
 - 🎓 Pursuing a **B.S. in Computer Science** with a **minor in Engineering Management** at San Jose State University  
@@ -54,29 +55,21 @@ Welcome to my GitHub profile! I’m passionate about **full-stack development**,
 
 ## 💻 Featured Repositories
 
-1. [**SentimentLens**](https://github.com/dhruhisheth/SentimentLens)  
-   AI-powered analysis of product reviews with smart voice feedback for brands and users:  
-   - NLP heuristics + Naive Bayes classification  
-   - Voice assistant suggests improvements to companies  
-   - Dashboard-ready outputs and model visualizations  
+1. [**👗 FindMyFit.AI**](https://github.com/dhruhisheth/FindMyFit-AI.git) 
+- Voice-activated AI stylist that provides personalized outfit feedback using Gradio, GROQ Whisper, and ElevenLabs.
+- Combines image + audio input to analyze fashion style and return expressive voice responses.
+- Built with Python, Gradio, and APIs like GROQ and ElevenLabs for a warm, human-like experience.
 
-2. [**LangGraph AI Agent**](https://github.com/dhruhisheth/LangGraph-AI-Agent)  
-   Multimodal fashion agent built with LangChain and GPT:  
-   - Accepts outfit images + voice input  
-   - Responds with contextual suggestions for events like brunch or parties  
-   - Personalized styling with memory-aware context  
+2. [**🧠 LangGraph AI Agent**](https://github.com/dhruhisheth/LangGraph-AI-Agent.git)  
+- Chat-style fashion assistant using LangGraph with Groq/OpenAI models and Tavily-powered web search.
+- Users can personalize the AI’s tone and receive real-time outfit advice and trend insights.
+- Full-stack app with FastAPI backend and Streamlit frontend for a sleek, interactive UI.
 
-3. [**FindMyFit-AI**](https://github.com/dhruhisheth/FindMyFit-AI)  
-   Personal stylist + clothing search app combining Google OAuth and brand APIs:  
-   - Fit rating engine powered by ML  
-   - Thrift and influencer integration features  
-   - Filter clothes across Zara, H&M, and more  
+3. [**🎬 Movie Reviews Sentiment Analysis**](https://github.com/dhruhisheth/Movie-Reviews-Sentiment-Analysis.git)  
+- Lexicon-based sentiment analysis with custom NLP heuristics for negation, emphasis, and word frequency.
+- Visualizes sentiment trends, bar charts, and top frequent words with accuracy evaluation on labeled data.
+- Built with NLTK, Matplotlib, and Python for clear and explainable sentiment classification.
 
-4. [**FacultyConnect**](https://github.com/karan6705/FacultyConnect)  
-   JavaFX-based desktop app for managing SJSU faculty office hours:  
-   - SQLite backend + MVC structure  
-   - Add/edit/delete courses, time slots, appointments  
-   - Admin scheduling and student interface  
 
 ---
 
