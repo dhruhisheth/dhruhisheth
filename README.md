@@ -65,7 +65,7 @@ Welcome to my GitHub profile! From building **robust applications** to contribut
 - Users can personalize the AI’s tone and receive real-time outfit advice and trend insights.
 - Full-stack app with FastAPI backend and Streamlit frontend for a sleek, interactive UI.
 
-3. [**🎬 Movie Reviews Sentiment Analysis**](https://github.com/dhruhisheth/Movie-Reviews-Sentiment-Analysis.git)  
+3. [**🎬 Movie Reviews Sentiment Analysis**](https://github.com/dhruhisheth/movie-reviews-sentiment-analysis.git)
 - Lexicon-based sentiment analysis with custom NLP heuristics for negation, emphasis, and word frequency.
 - Visualizes sentiment trends, bar charts, and top frequent words with accuracy evaluation on labeled data.
 - Built with NLTK, Matplotlib, and Python for clear and explainable sentiment classification.
