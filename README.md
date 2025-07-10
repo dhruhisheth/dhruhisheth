@@ -55,7 +55,7 @@ Welcome to my GitHub profile! From building **robust applications** to contribut
 
 ## 💻 Featured Repositories
 
-1. [**👗 FindMyFit.AI**](https://github.com/dhruhisheth/FindMyFit-AI.git) 
+1. [**👗 FindMyFit.AI**](https://github.com/dhruhisheth/find-my-fit-ai.git) 
 - Voice-activated AI stylist that provides personalized outfit feedback using Gradio, GROQ Whisper, and ElevenLabs.
 - Combines image + audio input to analyze fashion style and return expressive voice responses.
 - Built with Python, Gradio, and APIs like GROQ and ElevenLabs for a warm, human-like experience.
