@@ -9,7 +9,7 @@
   style="margin-right:200px;"
 />
 
-Welcome to my GitHub profile! I’m passionate about **full-stack development**, **cloud services**, and **machine learning**.  From building robust applications to contributing to student communities, I enjoy turning ideas into real, user-focused products. Feel free to explore my repositories and connect with me!
+Welcome to my GitHub profile! From building **robust applications** to contributing to **student communities**, I enjoy turning ideas into real, user-focused products. Feel free to explore my repositories and connect with me!
 
 
 <p align="left">
@@ -30,9 +30,9 @@ Welcome to my GitHub profile! I’m passionate about **full-stack development**,
 ---
 
 ### 🔗 About Me
-- 🎓 Pursuing a **B.S. in Computer Science** with a **minor in Engineering Management** at San Jose State University  
-- 💡 Skilled in developing full-stack, ML-powered web applications using modern tools and cloud platforms  
-- 🤝 Roles at SJSU: Peer Mentor • Mentorship Chair for SWE • Girls Who Code Technical Developer  
+- 🎓 Pursuing a **B.S. in Computer Science** with a **minor in Engineering Management** at San Jose State University.  
+- 💡 Skilled in developing full-stack, ML-powered web applications using modern tools and cloud platforms.  
+- 🤝 Roles at SJSU: Peer Mentor • Mentorship Chair for SWE • Girls Who Code Technical Developer.  
 
 ---
 
