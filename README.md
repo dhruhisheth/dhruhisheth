@@ -60,7 +60,7 @@ Welcome to my GitHub profile! From building **robust applications** to contribut
 - Combines image + audio input to analyze fashion style and return expressive voice responses.
 - Built with Python, Gradio, and APIs like GROQ and ElevenLabs for a warm, human-like experience.
 
-2. [**🧠 LangGraph AI Agent**](https://github.com/dhruhisheth/LangGraph-AI-Agent.git)  
+2. [**🧠 LangGraph AI Agent**](https://github.com/dhruhisheth/langgraph-ai-agent.git)  
 - Chat-style fashion assistant using LangGraph with Groq/OpenAI models and Tavily-powered web search.
 - Users can personalize the AI’s tone and receive real-time outfit advice and trend insights.
 - Full-stack app with FastAPI backend and Streamlit frontend for a sleek, interactive UI.
