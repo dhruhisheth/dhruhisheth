@@ -39,8 +39,10 @@ Welcome to my GitHub profile! From building **robust applications** to contribut
 ## 🛠️ Languages, Developer Tools & Frameworks
 
 - **Languages:** Java, Python, JavaScript, SQL, HTML5, CSS, C  
-- **Developer Tools:** Git, Postman, VSCode, Supabase, Figma, AWS  
-- **Frameworks & Libraries:** React.js, Next.js, Node.js, Spring Boot, FastAPI, MongoDB, Bootstrap  
+- **Frameworks & Tools:** ReactJS, Next.js, Node.js, Spring Boot, FastAPI, Tailwind CSS, Bootstrap, Git, Docker, Postman, Figma
+- **Cloud & Deployment:** AWS (EC2, S3, Lambda)
+- **Databases:** MySQL, MongoDB
+- **Machine Learning & NLP:** scikit-learn, TensorFlow,Pandas, spaCy, NLTK
 
 ---
 
