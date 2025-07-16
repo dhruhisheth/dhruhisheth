@@ -2,7 +2,7 @@
 
 
 <img
-  src="photo1.jpg"
+  src="60C6E906-D51B-4639-89EA-57AD88C401BD.PNG"
   alt="Dhruhi Sheth"
   width="170"
   align="right"
